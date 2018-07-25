@@ -1,0 +1,45 @@
+1 Ali Mehdi                               26
+5                                       80,000/-
+6                                       Pilot
+2 Raza Ali                                 24
+6                                       67,000/-
+3                                       Pilot
+3 Usman Ghuman                              28
+4                                       90,000/-
+7                                       Pilot
+4 Uzma Khan                                23
+7                                       30,000/-
+2                                       AirHostess
+5 Khadija Imaan                               20
+8                                       24,000/-
+6                                       AirHostess
+6 Zarish Imran                               24
+5                                       32,000/-
+3                                       AirHostess
+7 Abdullah Shah                                34
+12                                      89,000/-
+8                                       Accountant
+8 Amna Iqbal                               28
+10                                      70,000/-
+5                                       Accountant
+9 Arsalan Akhtar                              27
+12                                      70,000/-
+5                                       Accountant
+10 Adnan Nawaz                               45
+18                                      20,000/-
+15                                      Sweeper
+11 Tayyaba Ikram                               40
+18                                      20,000/-
+12                                      Sweeper
+12 Farhan Saeed                               46
+18                                      20,000/-
+16                                      Sweeper
+13 Tayyab Shahid                              35
+12                                      35,000/-
+8                                       Shopkeeper
+14 Akbar Ikram                               41
+12                                      35,000/-
+5                                       Shopkeeper
+15 Majeed Iqbal                               37
+12                                      35,000/-
+7                                       ShopKeeper                                                     

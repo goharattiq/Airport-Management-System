@@ -1,0 +1,16 @@
+0         PindBhattiyan       Lahore         10:00pm        08:45pm        PK-0001
+1         Swat                Karachi        07:00pm        01:00pm        PK-0002
+2         Jhang               Islamabad      03:00am        12:30am        PK-0003
+3         Faisalabad          Multan         05:00pm        02:00pm        PK-0004
+4         Lahore              Karachi        12:00am        08:00pm        PK-0005
+5         Gujranwala          Gujrat         06:00am        04:00am        PK-0006
+6         Mohinjodaro         Harrapa        11:00pm        05:00pm        PK-0007
+7         ChichoKiMaliyan     Kamaliya       06:45pm        02:00pm        PK-0008
+8         Kaghan              Peshawar       04:15am        01:00am        PK-0009
+9         Quetta              BabuSabu       09:00am        06:00am        PK-0010
+10        Karachi             Hyderabad      08:30pm        07:45pm        PK-0011
+11        Peshawar            KotAbdul       11:00pm        05:00pm        PK-0012
+12        Thar                RahimYarKhan   12:00am        07:00pm        Pk-0013
+13        Multan              Lahore         10:00am        07:15am        PK-0014
+14        Larkana             Quetta         01:00pm        10:00am        PK-0015
+15        LHR                 GOT            qqw            wqw            wqwq
