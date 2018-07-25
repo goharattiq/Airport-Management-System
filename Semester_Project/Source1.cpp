@@ -243,15 +243,15 @@ bool Access()
 	draw_board();
 	gotoxy(32, 8);
 	setColor(9);
-	cout << "LOG IN";
+	cout << "LOG IN";                           
 	gotoxy(32, 10);
 	cout << "* * * * * * * * * * * * * * * * * * * * * * * * *";
 	gotoxy(32, 13);
 	setColor(9);
-	cout << "User Name : ";
+	cout << "User Name : "; // hint: admin
 	cin >> user;
 	gotoxy(32, 15);
-	cout << "Password : ";
+	cout << "Password : ";    // hint: 123
 	cin >> pass;
 	if (user == "admin" && pass == "123")
 	{
