@@ -1,0 +1,16 @@
+0         Paris               Multan         05:00am        11:00pm        PK-0100
+1         Sydney              Lahore         06:25am        12:00am        PK-0101
+2         Copenhegan          Georgia        07:00pm        01:00pm        PK-0102
+3         NewYork             Beijing        08:30am        02:15am        PK-0103
+4         Mumbai              AbuDhabi       09:30pm        03:30pm        PK-0104
+5         Dubai               Quetta         10:35am        04:00am        PK-0105
+6         Makkah              Lahore         11:00am        05:45am        PK-0106
+7         Karachi             Texas          12:30pm        06:00pm        PK-0107
+8         Barcelona           Dhaka          01:00pm        07:30pm        PK-0108
+9         London              Opsala         02:30am        08:30am        PK-0109
+10        Melbourn            Stalkhome      03:45am        08:15am        PK-0110
+11        Istambul            Lakhnow        04:00pm        09:00pm        PK-0111
+12        Hiroshima           Toronto        05:15am        10:00am        PK-0112
+13        Nagasaki            Washington     06:45pm        11:45pm        PK-0113
+14        Muscat              Patiyala       07:00am        12:15am        Pk-0114
+15        Nagasaki            Washington     06:45pm        11:45pm        PK-0113
